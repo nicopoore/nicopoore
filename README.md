@@ -1,6 +1,6 @@
 <img align="right" width="256px" alt="Profile Picture" src="profile.png" />
 
-<h3>Hey! I'm <a href="https://nicolaspoore.com">Nicolás</a></h3>
+<h3>Hey! I'm <a href="https://nicolaspoore.com">Nicolás!</a></h3>
 
 - 😄 Pronouns: He/Him
 - 🇦🇷 I live in Argentina
